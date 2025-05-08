@@ -7,8 +7,8 @@
 
 
 
+![cybercore](https://github.com/user-attachments/assets/56d9d2d1-c427-41d0-8bef-82b01cebe2dd)
 
-![lain dance](https://github.com/user-attachments/assets/7e3dc9b7-1f55-44e5-a2a3-91e63fb0010f)
 
 
 
