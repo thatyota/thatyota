@@ -1,5 +1,5 @@
 
-![image alt comp=200](https://github.com/thatyota/picture/blob/main/lain.jpg?raw=true)
+![200](https://github.com/thatyota/picture/blob/main/lain.jpg?raw=true)
 
 
 
