@@ -1,33 +1,3 @@
-![image alt](https://github.com/thatyota/picture/blob/main/lain.jpg?raw=true)
-
-
-
-
-
-
-
-
-![cybercore](https://github.com/user-attachments/assets/56d9d2d1-c427-41d0-8bef-82b01cebe2dd)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
