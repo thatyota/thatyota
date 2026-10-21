@@ -21,7 +21,7 @@ I code because I love seeing ideas come to life, whether it's a website, an app 
 
 I interned at **Bauer Media Audio**, where I built an onboarding backoffice for new employees, and I'm still learning something new every day.
 
-- 🔭 Currently building my own **mobile app**
+- 🔭 Currently building my own **pocket-sized robot pet**
 - 🌱 Currently learning **C++**
 - 🔐 Experience with **SSO** and **Azure**
 - 🤖 Into **robotics** and **electronics**
